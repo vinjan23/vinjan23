@@ -9,7 +9,7 @@
   <br />
 <h4><i> &nbsp;It'me&nbsp;&nbsp;</h4></i>
 <br />
-🎉Proffesional Stake & Node Validator🎉
+🎉Proffesional Stake & IBC Relayer🎉
 
 
 </div>
